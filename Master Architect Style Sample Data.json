@@ -1,7 +1,302 @@
 {
   "sections": [
     {
-      "name": "Color"
+      "name": "Color",
+      "grouping": [
+        {
+          "name": "Brand Colors",
+          "elements": [
+            {
+              "name": "Main",
+              "variable-name": "$variable-name",
+              "fill": {
+                "hex": "#000000",
+                "obacity": "100%"
+              }
+            },
+            {
+              "name": "Second",
+              "variable-name": "$variable-name",
+              "fill": {
+                "hex": "#000000",
+                "obacity": "100%"
+              }
+            },
+            {
+              "name": "Main Light",
+              "variable-name": "$variable-name",
+              "fill": {
+                "hex": "#000000",
+                "obacity": "100%"
+              }
+            },
+            {
+              "name": "Main Dark",
+              "variable-name": "$variable-name",
+              "fill": {
+                "hex": "#000000",
+                "obacity": "100%"
+              }
+            }
+          ]
+        },
+        {
+          "name": "UI Colors",
+          "elements": [
+            {
+              "name": "Primary",
+              "variable-name": "$variable-name",
+              "fill": {
+                "hex": "#000000",
+                "obacity": "100%"
+              }
+            },
+            {
+              "name": "Secondary",
+              "variable-name": "$variable-name",
+              "fill": {
+                "hex": "#000000",
+                "obacity": "100%"
+              }
+            },
+            {
+              "name": "Dark",
+              "variable-name": "$variable-name",
+              "fill": {
+                "hex": "#000000",
+                "obacity": "100%"
+              }
+            },
+            {
+              "name": "Light",
+              "variable-name": "$variable-name",
+              "fill": {
+                "hex": "#000000",
+                "obacity": "100%"
+              }
+            },
+            {
+              "name": "Success",
+              "variable-name": "$variable-name",
+              "fill": {
+                "hex": "#000000",
+                "obacity": "100%"
+              }
+            },
+            {
+              "name": "Info",
+              "variable-name": "$variable-name",
+              "fill": {
+                "hex": "#000000",
+                "obacity": "100%"
+              }
+            },
+            {
+              "name": "Warning",
+              "variable-name": "$variable-name",
+              "fill": {
+                "hex": "#000000",
+                "obacity": "100%"
+              }
+            },
+            {
+              "name": "Danger",
+              "variable-name": "$variable-name",
+              "fill": {
+                "hex": "#000000",
+                "obacity": "100%"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Grays",
+          "elements": [
+            {
+              "name": "Gray Darkest",
+              "variable-name": "$variable-name",
+              "fill": {
+                "hex": "#000000",
+                "obacity": "100%"
+              }
+            },
+            {
+              "name": "Gray Dark",
+              "variable-name": "$variable-name",
+              "fill": {
+                "hex": "#000000",
+                "obacity": "100%"
+              }
+            },
+            {
+              "name": "Gray Light",
+              "variable-name": "$variable-name",
+              "fill": {
+                "hex": "#000000",
+                "obacity": "100%"
+              }
+            },
+            {
+              "name": "Gray Lightest",
+              "variable-name": "$variable-name",
+              "fill": {
+                "hex": "#000000",
+                "obacity": "100%"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Accents",
+          "elements": [
+            {
+              "name": "Accent One",
+              "variable-name": "$variable-name",
+              "fill": {
+                "hex": "#000000",
+                "obacity": "100%"
+              }
+            },
+            {
+              "name": "Accent Two",
+              "variable-name": "$variable-name",
+              "fill": {
+                "hex": "#000000",
+                "obacity": "100%"
+              }
+            },
+            {
+              "name": "Accent Three",
+              "variable-name": "$variable-name",
+              "fill": {
+                "hex": "#000000",
+                "obacity": "100%"
+              }
+            },
+            {
+              "name": "Accent Four",
+              "variable-name": "$variable-name",
+              "fill": {
+                "hex": "#000000",
+                "obacity": "100%"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Gradients",
+          "elements": [
+            {
+              "name": "Gradient One",
+              "variable-name": "$variable-name",
+              "gradient": [
+                {
+                  "fill": {
+                    "direction":"0deg",
+                    "hex": "#000000",
+                    "obacity": "100%"
+                  }
+                },
+                {
+                  "fill": {
+                    "direction": "0deg",
+                    "hex": "#000000",
+                    "obacity": "100%"
+                  }
+                },
+                {
+                  "fill": {
+                    "direction": "0deg",
+                    "hex": "#000000",
+                    "obacity": "100%"
+                  }
+                }                
+              ]
+            },
+            {
+              "name": "Gradient Two",
+              "variable-name": "$variable-name",
+              "gradient": [
+                {
+                  "fill": {
+                    "direction": "0deg",
+                    "hex": "#000000",
+                    "obacity": "100%"
+                  }
+                },
+                {
+                  "fill": {
+                    "direction": "0deg",
+                    "hex": "#000000",
+                    "obacity": "100%"
+                  }
+                },
+                {
+                  "fill": {
+                    "direction": "0deg",
+                    "hex": "#000000",
+                    "obacity": "100%"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Gradient Three",
+              "variable-name": "$variable-name",
+              "gradient": [
+                {
+                  "fill": {
+                    "direction": "0deg",
+                    "hex": "#000000",
+                    "obacity": "100%"
+                  }
+                },
+                {
+                  "fill": {
+                    "direction": "0deg",
+                    "hex": "#000000",
+                    "obacity": "100%"
+                  }
+                },
+                {
+                  "fill": {
+                    "direction": "0deg",
+                    "hex": "#000000",
+                    "obacity": "100%"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Gradient Four",
+              "variable-name": "$variable-name",
+              "gradient": [
+                {
+                  "fill": {
+                    "direction": "0deg",
+                    "hex": "#000000",
+                    "obacity": "100%"
+                  }
+                },
+                {
+                  "fill": {
+                    "direction": "0deg",
+                    "hex": "#000000",
+                    "obacity": "100%"
+                  }
+                },
+                {
+                  "fill": {
+                    "direction": "0deg",
+                    "hex": "#000000",
+                    "obacity": "100%"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "Typography"
@@ -25,7 +320,7 @@
       "name": "Components"
     },
     {
-      "name": "Motion"
+      "name": "Mostion"
     }
   ],
   "info": {
