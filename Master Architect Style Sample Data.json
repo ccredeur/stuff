@@ -9,10 +9,7 @@
             {
               "name": "Main",
               "variable-name": "$variable-name",
-              "fill": {
-                "hex": "#000000",
-                "obacity": "100%"
-              }
+              "fill": "#000000 100%"
             },
             {
               "name": "Second",
@@ -192,13 +189,6 @@
               "gradient": [
                 {
                   "fill": {
-                    "direction":"0deg",
-                    "hex": "#000000",
-                    "obacity": "100%"
-                  }
-                },
-                {
-                  "fill": {
                     "direction": "0deg",
                     "hex": "#000000",
                     "obacity": "100%"
@@ -210,7 +200,14 @@
                     "hex": "#000000",
                     "obacity": "100%"
                   }
-                }                
+                },
+                {
+                  "fill": {
+                    "direction": "0deg",
+                    "hex": "#000000",
+                    "obacity": "100%"
+                  }
+                }
               ]
             },
             {
