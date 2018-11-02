@@ -1,0 +1,34 @@
+{
+  "sections": [
+    {
+      "name": "Color"
+    },
+    {
+      "name": "Typography"
+    },
+    {
+      "name": "Links & Buttons"
+    },
+    {
+      "name": "Styles"
+    },
+    {
+      "name": "Forms"
+    },
+    {
+      "name": "Messages"
+    },
+    {
+      "name": "Icons"
+    },
+    {
+      "name": "Components"
+    },
+    {
+      "name": "Mostion"
+    }
+  ],
+  "info": {
+    "version": "1.0"
+  }
+}
