@@ -296,7 +296,104 @@
       ]
     },
     {
-      "name": "Typography"
+      "name": "Typography",
+      "grouping": [
+        {
+          "name": "Fonts",
+          "font-families": [
+            {
+              "name":"Font Name",
+              "weights": [
+                {
+                  "weight":"light"
+                },
+                {
+                  "weight": "regular"
+                },
+                {
+                  "weight": "bold"
+                }
+              ]
+            },
+            {
+              "name": "Font Name",
+              "weights": [
+                {
+                  "weight": "regular"
+                },
+                {
+                  "weight": "bold"
+                },
+                {
+                  "weight": "black"
+                }
+              ]
+            }
+          ],
+          "font-usage": [
+            {
+              "name":"Display",
+              "scale": [
+                {
+                  "size":"xxrem",
+                  "specs": {
+                    "color":"#xxxxxx 100%",
+                    "font-face":"Font Name",
+                    "font-size":"12px",
+                    "character":"1.6px",
+                    "line":"1.2"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Headings",
+              "scale": [
+                {
+                  "size": "xxrem",
+                  "specs": {
+                    "color": "#xxxxxx 100%",
+                    "font-face": "Font Name",
+                    "font-size": "12px",
+                    "character": "1.6px",
+                    "line": "1.2"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Labels",
+              "scale": [
+                {
+                  "size": "xxrem",
+                  "specs": {
+                    "color": "#xxxxxx 100%",
+                    "font-face": "Font Name",
+                    "font-size": "12px",
+                    "character": "1.6px",
+                    "line": "1.2"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Body",
+              "scale": [
+                {
+                  "size": "xxrem",
+                  "specs": {
+                    "color": "#xxxxxx 100%",
+                    "font-face": "Font Name",
+                    "font-size": "12px",
+                    "character": "1.6px",
+                    "line": "1.2"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "Links & Buttons"
